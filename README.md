@@ -6,14 +6,29 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sapsecops&label=Profile%20views&color=0e75b6&style=flat" alt="sapsecops" />
 </p>
+### 👋 About Me
 
-- 🔭 I’m currently working on **[Project Name / Stack / Tooling]**
-- 🌱 I’m currently learning **[Technology/Tool]**
-- 👯 I’m looking to collaborate on **[Open Source / DevOps Projects / CI-CD / etc.]**
-- 🤝 I’m looking for help with **[If any]**
-- 💬 Ask me about **DevOps | Cloud | CI/CD | Automation | Monitoring**
-- 📫 How to reach me: **[email@example.com]**
-- ⚡ Fun fact: **[Something fun about you]**
+I'm a seasoned **DevOps Engineer** with over **6 years of experience** in designing, implementing, and maintaining CI/CD pipelines, infrastructure automation, and cloud-native architectures. I bring together deep technical expertise with a passion for building scalable and reliable systems.
+
+💼 **Professional Background:**
+- Extensive hands-on experience with cloud platforms like **AWS, Azure, and GCP**
+- Deep knowledge in **containerization (Docker)** and **orchestration (Kubernetes)**
+- Strong background in **Infrastructure as Code (IaC)** using **Terraform**, **CloudFormation**, and **Ansible**
+- Proficient in setting up and optimizing **monitoring and observability** stacks using **Prometheus**, **Grafana**, **ELK**
+- Led multiple projects integrating **Jenkins**, and **GitLab CI** for high-performance CI/CD
+- Successfully migrated monolith applications to **microservices** using Kubernetes and service meshes like Istio
+
+🛠 **Current Focus Areas:**
+- Building fully observable systems (metrics, logs, traces)
+- Securing DevOps pipelines with best practices and policies (DevSecOps)
+- Optimizing cloud spend through automation and right-sizing
+- Exploring platform engineering and Internal Developer Platforms (IDP)
+
+🎯 **Career Goals:**
+- Continue mentoring junior DevOps and SREs
+- Contribute more to open-source DevOps tooling
+- Grow into a **DevOps Architect** or **Platform Engineering Lead** role
+- Build and share thought leadership through technical blogs and talks
 
 ---
 
